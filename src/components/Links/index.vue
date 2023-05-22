@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">白发听终戏百年</span>
+      <span class="title">魔眼之后</span>
     </div>
     <el-row class="link-all" :gutter="20">
       <el-col
@@ -56,7 +56,7 @@ let linksData = [
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "https://yun.sy.1120.top/",
   },
   {
     icon: Compass,
