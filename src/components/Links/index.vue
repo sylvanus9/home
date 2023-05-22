@@ -71,7 +71,7 @@ let linksData = [
   {
     icon: Fire,
     name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    link: "https://hot.sy1120.top/",
   },
 ];
 
