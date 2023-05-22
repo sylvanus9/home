@@ -7,9 +7,6 @@
       </span>
       <!-- 以下信息请不要修改哦 -->
       <!-- 站点备案 -->
-      <a href="https://beian.miit.gov.cn" target="_blank"
-        >苏ICP备20230101011号-9</a
-      >
     </div>
     <div class="lrc" v-show="store.playerState">
       <music-one theme="filled" size="18" fill="#efefef" />
