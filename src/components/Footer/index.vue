@@ -6,14 +6,6 @@
         <a href="https://index.sy1120.top">缔造朦胧</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
-      <span class="hidden"
-        >&nbsp;&amp;&nbsp;Made&nbsp;by&nbsp;<a
-          :href="config.github"
-          target="_blank"
-        >
-          {{ config.author }}
-        </a></span
-      >&nbsp;&amp;
       <!-- 站点备案 -->
       <a href="https://beian.miit.gov.cn" target="_blank"
         >苏ICP备20230101011号-9</a
