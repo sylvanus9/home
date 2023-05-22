@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表</span>
+      <span class="title">白发听终戏百年</span>
     </div>
     <el-row class="link-all" :gutter="20">
       <el-col
@@ -45,13 +45,13 @@ import {
 let linksData = [
   {
     icon: Blog,
-    name: "博客",
-    link: "https://blog.imsyy.top/",
+    name: "主页",
+    link: "https://home.sy1120.top/",
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "博客",
+    link: "https://sy1120.top/",
   },
   {
     icon: CompactDisc,
